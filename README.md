@@ -2,6 +2,10 @@
 
 Leaks memory until something happens.
 
+`kubectl apply -f https://raw.githubusercontent.com/matti/docker-memleak/refs/heads/main/pod.yaml`
+
+or
+
 `docker run ghcr.io/matti/docker-memleak:latest`
 
 ```console
