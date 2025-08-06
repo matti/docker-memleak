@@ -2,6 +2,8 @@
 
 Leaks memory until something happens.
 
+`docker run ghcr.io/matti/docker-memleak:latest`
+
 ```console
 RSS: 48.97 MB
 RSS: 61.47 MB
